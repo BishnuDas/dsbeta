@@ -1,0 +1,37 @@
+<div class="split left">
+	<h1>
+	<h1><%= link_to "Give your property on rent simply", {:controller => "main", :action => "post_new_property"}%></h1>
+</div>
+</br>
+<div class="split right">
+	<h1><%= link_to "Get your new stay Simply", {:controller => "main", :action => "property_list"}%></h1>
+</div>
+
+<style type="text/css">
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  background-color: #B9770E;
+  color: white;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-color: #5D6D7E;
+  color: white;
+}
+a {
+	color: white;
+}
+</style>

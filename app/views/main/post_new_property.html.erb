@@ -1,0 +1,35 @@
+<%
+#@data = current_user.id%>
+<%= form_with url: main_update_property_path, :html => { :multipart => true } do |f| %>
+
+  <div class="field">
+    <%= f.label :Prop_Type %>: 
+    <%= f.text_field :prop_type, autofocus: true%>
+  </div>
+
+  <div class="field">
+    <%= f.label :Address %>: 
+    <%= f.text_field :address, autofocus: true %>
+  </div>
+
+  <div class="field">
+    <%= f.label :Pincode %>: 
+    <%= f.text_field :pincode, autofocus: true %>
+  </div>
+
+  <div class="field">
+    <%= f.label :Description %>: 
+    <%= f.text_field :description, autofocus: true %>
+  </div>
+  <input type="hidden" name="user_id" value="<%#= @data%>">
+  <div class="field">
+    <%= f.label :Images %>:
+    <%= f.file_field :images %>
+  </div>
+</br>
+  <div class="actions">
+    <%= f.submit "Update" %>
+  </div>
+<% end %>
+
+<%= link_to "Back", :back %>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div>
+	<%property = CommonUtils.seach_page_api%>
+	<table border = "1">
+		<tr>
+		<th>Prop Type</th>
+		<th>Area</th>
+		<th>Description</th>
+		<th>Link</th>
+		<th>Posted By</th>
+		</tr>
+		<%property.each do |k,prop|%>
+		<tr>
+			<td><%=CommonUtils.admin_type_array_index("PROPERTY_TYPE", prop["prop_type"])%></td>
+			<td><%=prop["area1"]%></td>
+			<td><%= prop["description"]%></td>
+			<td><%= link_to "details" , {:controller => "main", :action => "property_details", :p_id => prop["user_id"].to_i}%></td>
+			<td><%= CommonUtils.user_details(prop["user_id"].to_i) %></td>
+		</tr>
+		<%end%>
+	</table>
+</div>
+</body>
+<%= link_to "Back", :back %>
+</html>

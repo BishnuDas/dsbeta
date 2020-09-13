@@ -1,0 +1,2739 @@
+Started GET "/" for 127.0.0.1 at 2020-02-28 12:45:35 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (18.1ms)
+Completed 200 OK in 351ms (Views: 38.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-02-28 12:46:44 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 6ms (Views: 4.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-02-28 12:46:45 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 3.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-02-28 12:46:45 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 5ms (Views: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-02-28 12:54:51 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.3.6/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 7ms (Views: 6.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-02-28 12:57:35 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 128ms (Views: 5.7ms)
+
+
+Started GET "/article" for 127.0.0.1 at 2020-02-28 12:57:43 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/article"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles" for 127.0.0.1 at 2020-02-28 12:57:46 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/articles"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles" for 127.0.0.1 at 2020-02-28 12:57:58 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/articles"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 12:58:20 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1704ms (Views: 1701.7ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 13:00:13 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 19.2ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 13:00:14 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 19.0ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 13:00:19 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 22ms (Views: 20.1ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 13:00:34 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 31.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-02-28 18:55:38 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (12.7ms)
+Completed 200 OK in 258ms (Views: 23.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:14:52 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.6ms)
+[Webpacker] Compiling…
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:14:56 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 51ms (Views: 49.6ms)
+
+
+Started GET "/packs/hello_vue-6ab26a32536b97c19bdd.js" for 127.0.0.1 at 2020-02-28 19:14:56 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/packs/hello_vue-6ab26a32536b97c19bdd.js"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+[Webpacker] Compiled all packs in /home/bitlasoft/BISHNU/project/railsvueapp/public/packs
+Completed 200 OK in 16344ms (Views: 16189.7ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 19:15:17 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 64ms (Views: 42.1ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 19:15:24 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 20.0ms)
+
+
+Started GET "/articles/index" for 127.0.0.1 at 2020-02-28 19:15:26 +0530
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 40ms (Views: 39.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:16:13 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 30.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:16:17 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 23ms (Views: 22.3ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:16:26 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 24ms (Views: 22.3ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:24:29 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 5ms
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"post_new_property", :controller=>"main"}):
+    1: <div>
+    2: 	New Prop: <%= link_to "Click", {:controller => "main", :action => "post_new_property"}%>
+    3: </div>
+    4: </br>
+    5: <div>
+  
+app/views/main/index.html.erb:2:in `_app_views_main_index_html_erb___3580608729084297066_70048453497080'
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:24:46 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 5ms
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"post_new_property", :controller=>"main"}):
+    1: <div>
+    2: 	New Prop: <%= link_to "Click", {:controller => "main", :action => "post_new_property"}%>
+    3: </div>
+    4: </br>
+    5: <div>
+  
+app/views/main/index.html.erb:2:in `_app_views_main_index_html_erb___3580608729084297066_70048439882860'
+Started GET "/main/index" for 127.0.0.1 at 2020-02-28 19:24:57 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 4ms
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"property_list", :controller=>"main"}):
+    4: </br>
+    5: <div>
+    6: 	Prop List: <%= link_to "Click", {:controller => "main", :action => "property_list"}%>
+    7: </div>
+  
+app/views/main/index.html.erb:7:in `_app_views_main_index_html_erb___3580608729084297066_70048443869620'
+Started GET "/" for 127.0.0.1 at 2020-03-01 22:06:12 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (8.0ms)
+Completed 200 OK in 315ms (Views: 27.0ms)
+
+
+Started GET "/main" for 127.0.0.1 at 2020-03-01 22:06:22 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/main"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:06:29 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 2108ms (Views: 2105.9ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:06:33 +0530
+Processing by MainController#property_list as HTML
+Completed 500 Internal Server Error in 4ms
+
+
+  
+NameError (uninitialized constant MainController::Property):
+  
+app/controllers/main_controller.rb:5:in `property_list'
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:06:36 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 23.5ms)
+
+
+  [1m[35m (38.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (71.0ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:31:38 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 1247ms (Views: 1139.3ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:39:05 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (3672.4ms)
+Completed 200 OK in 3738ms (Views: 3691.9ms | ActiveRecord: 118.2ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-03-01 22:39:11 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (0.8ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+Completed 406 Not Acceptable in 18ms (ActiveRecord: 0.8ms)
+
+
+  
+ActionController::UnknownFormat (MainController#property_details is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.7) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.7) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.7) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.2.2) lib/rack/etag.rb:27:in `call'
+rack (2.2.2) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.2) lib/rack/head.rb:12:in `call'
+rack (2.2.2) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.2) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:39:13 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (3404.1ms)
+Completed 200 OK in 3431ms (Views: 3428.7ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:39:31 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (49.2ms)
+Completed 200 OK in 69ms (Views: 62.5ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:39:32 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 38ms (Views: 36.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:39:33 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 35ms (Views: 32.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-01 22:39:37 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:39:44 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:39:46 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 37ms (Views: 35.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:39:48 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 32ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:40:12 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:40:14 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 40ms (Views: 37.8ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:40:15 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 42ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:41:03 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 96ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/bitlasoft/BISHNU/project/railsvueapp/app/assets/config
+  /home/bitlasoft/BISHNU/project/railsvueapp/app/assets/images
+  /home/bitlasoft/BISHNU/project/railsvueapp/app/assets/javascripts
+  /home/bitlasoft/BISHNU/project/railsvueapp/app/assets/stylesheets
+  /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/actioncable-5.1.7/lib/assets/compiled
+  /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/actionview-5.1.7/lib/assets/compiled
+  /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/bitlasoft/BISHNU/project/railsvueapp/node_modules):
+    4:     <title>Railsvueapp</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <%= javascript_pack_tag 'hello_vue' %>
+   10:   </head>
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2564044192495291815_70045032279380'
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:41:18 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 10453ms (Views: 10296.6ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:41:31 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (42.9ms)
+Completed 200 OK in 112ms (Views: 67.7ms | ActiveRecord: 3.5ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:41:33 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:41:34 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 47ms (Views: 44.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:41:35 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 42ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-01 22:42:37 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 39ms (Views: 36.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-01 22:42:42 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-05 11:59:05 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (5.8ms)
+Completed 200 OK in 305ms (Views: 25.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-05 11:59:11 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 11673ms (Views: 11566.5ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-05 11:59:50 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (1011.7ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (424.1ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (3583.7ms)
+Completed 200 OK in 15607ms (Views: 3617.0ms | ActiveRecord: 2260.7ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-05 12:00:28 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 61ms (Views: 59.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-05 12:00:29 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (1.6ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 102ms (Views: 96.9ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-05 12:00:31 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 43ms (Views: 41.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-05 12:08:08 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 36ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.4ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT `users`.* FROM `users`[0m
+Started GET "/" for 127.0.0.1 at 2020-03-16 15:31:59 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (7.5ms)
+Completed 200 OK in 681ms (Views: 41.9ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:32:35 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 2044ms (Views: 2013.3ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:32:39 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (45.6ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (372.9ms)
+Completed 200 OK in 563ms (Views: 414.6ms | ActiveRecord: 113.4ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-03-16 15:32:41 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+Completed 406 Not Acceptable in 20ms (ActiveRecord: 0.5ms)
+
+
+  
+ActionController::UnknownFormat (MainController#property_details is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.7) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.7) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.7) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.2.2) lib/rack/etag.rb:27:in `call'
+rack (2.2.2) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.2) lib/rack/head.rb:12:in `call'
+rack (2.2.2) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.2) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:32:43 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 41ms (Views: 38.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:32:45 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.7ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:32:46 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 39ms (Views: 36.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:32:51 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 38ms (Views: 35.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:32:53 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.6ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 44ms (Views: 41.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:34:08 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 44ms (Views: 41.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:34:12 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:35:11 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:35:13 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 36ms (Views: 34.1ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:35:14 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:35:18 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 40ms (Views: 37.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:35:19 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 33ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:35:20 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 40ms (Views: 37.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:35:21 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 34ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:35:22 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 51ms (Views: 49.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:35:23 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-03-16 15:35:23 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 40ms (Views: 37.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-03-16 15:35:24 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 35ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-06 07:39:44 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (8.6ms)
+Completed 200 OK in 285ms (Views: 37.8ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-04-06 07:39:52 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 9665ms (Views: 9548.4ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-06 07:40:11 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (92.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (227.8ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (2487.9ms)
+Completed 200 OK in 2911ms (Views: 2518.1ms | ActiveRecord: 435.2ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-04-06 07:40:19 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 33ms (Views: 32.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 18:46:55 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (15.8ms)
+Completed 200 OK in 324ms (Views: 54.0ms)
+
+
+Started GET "/main" for 127.0.0.1 at 2020-04-09 18:48:12 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/main"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/index" for 127.0.0.1 at 2020-04-09 18:49:52 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 1841ms (Views: 1698.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 18:50:29 +0530
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:2:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/main/index" for 127.0.0.1 at 2020-04-09 18:51:03 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 23.7ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:51:08 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (0.6ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (43.2ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (276.4ms)
+Completed 200 OK in 544ms (Views: 311.8ms | ActiveRecord: 97.1ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-04-09 18:51:12 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-04-09 18:53:25 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 46ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:56:22 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (39.3ms)
+Completed 200 OK in 64ms (Views: 57.4ms | ActiveRecord: 3.4ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 18:56:24 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (1.0ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE Property Load (0.0ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+Completed 406 Not Acceptable in 12642ms (ActiveRecord: 1.0ms)
+
+
+  
+ActionController::UnknownFormat (MainController#property_details is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.7) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.7) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.7) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.2.2) lib/rack/etag.rb:27:in `call'
+rack (2.2.2) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.2) lib/rack/head.rb:12:in `call'
+rack (2.2.2) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.2) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:58:01 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 37ms (Views: 35.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:58:03 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 36ms (Views: 34.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:58:04 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (1.2ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 55ms (Views: 51.7ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:58:06 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 40ms (Views: 37.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 18:58:10 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bitlasoft/.rvm/gems/ruby-2.5.5/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/index" for 127.0.0.1 at 2020-04-09 18:58:15 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 42ms (Views: 40.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 18:58:16 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 38ms (Views: 35.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 18:58:17 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  Rendered main/property_details.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1697ms (Views: 34.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 18:59:17 +0530
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:2:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:03:42 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 1494ms (Views: 1351.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:03:46 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (0.9ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (71.7ms)
+Completed 200 OK in 154ms (Views: 95.7ms | ActiveRecord: 6.1ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 19:03:47 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:03:49 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 36ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:03:50 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 41ms (Views: 37.2ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:03:52 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 41ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:03:53 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 28.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:04:55 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:04:57 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 50ms (Views: 47.5ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 19:04:58 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  Rendered main/property_details.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1688ms (Views: 35.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:06:30 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 39ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:29:01 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 40ms (Views: 37.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:29:03 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 32ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 19:31:42 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (1.1ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered main/property_details.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 2912ms (Views: 35.6ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 19:32:07 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (0.6ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered main/property_details.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 3607ms (Views: 37.0ms | ActiveRecord: 1.6ms)
+
+
+Started GET "///" for 127.0.0.1 at 2020-04-09 19:44:33 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:44:36 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 40ms (Views: 38.5ms | ActiveRecord: 0.9ms)
+
+
+Started GET "///" for 127.0.0.1 at 2020-04-09 19:44:39 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 43ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:46:07 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 43ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:48:50 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 35ms (Views: 33.0ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:49:14 +0530
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered main/property_details.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 2835256ms (Views: 37.7ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-09 19:51:03 +0530
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:51:03 +0530
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 19:51:03 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 29ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Processing by MainController#index as HTML
+Processing by MainController#property_details as HTML
+Processing by MainController#property_list as HTML
+  Parameters: {"p_id"=>"1"}
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (4.8ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (0.9ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  [1m[36mProperty Load (13.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  Rendering main/property_details.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered main/property_details.html.erb within layouts/application (36.6ms)
+  [1m[36mUser Load (27.2ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (88.2ms)
+Completed 200 OK in 195ms (Views: 104.7ms | ActiveRecord: 14.7ms)
+
+
+Completed 200 OK in 199ms (Views: 113.1ms | ActiveRecord: 46.5ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-09 19:56:21 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 35ms (Views: 32.1ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/main/property_details?p_id=1" for 127.0.0.1 at 2020-04-09 19:56:23 +0530
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT  `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered main/property_details.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 36ms (Views: 32.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/pets" for 127.0.0.1 at 2020-04-11 07:04:07 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/pets"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:04:10 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.6ms)
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:04:14 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 8413ms (Views: 8411.5ms)
+
+
+Completed 200 OK in 12264ms (Views: 11593.5ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 07:04:29 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[35m (43.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (70.0ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (328.7ms)
+Completed 200 OK in 537ms (Views: 362.9ms | ActiveRecord: 141.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:04:31 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 44ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:04:33 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 07:15:21 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 54ms (Views: 51.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:17:08 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:17:15 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:17:17 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 49ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:21:36 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 07:21:39 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 37ms (Views: 34.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:21:40 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 47ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:23:23 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 45ms (Views: 44.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:23:49 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:24:06 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:24:18 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 44.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:25:34 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 33ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:25:44 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 38ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:25:53 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 44ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:26:25 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 42ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:28:40 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:29:04 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:29:25 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 34ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:32:12 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 45ms (Views: 44.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:39:47 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 51ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:40:46 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 34ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:41:00 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:41:34 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 34ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:41:56 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:41:58 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:41:59 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:43:17 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 28ms (Views: 27.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:44:41 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 07:44:44 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 42ms (Views: 39.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:47:30 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 38ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 07:47:34 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 52ms (Views: 50.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 07:47:36 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 50ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 08:03:13 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (1.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (47.7ms)
+Completed 200 OK in 78ms (Views: 68.7ms | ActiveRecord: 5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 08:03:15 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 44ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 08:06:16 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"post_new_property", :controller=>"main"}):
+    1: <div class="split left">
+    2: 	<h1>
+    3: 	<h1><%= link_to "Give your property on rent simply", {:controller => "main", :action => "post_new_property"}%></h1>
+    4: </div>
+    5: </br>
+    6: <div class="split right">
+  
+app/views/main/index.html.erb:3:in `_app_views_main_index_html_erb___1920952674605662969_70265431695060'
+Started GET "/" for 127.0.0.1 at 2020-04-11 08:09:14 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"post_new_property", :controller=>"main"}):
+    1: <div class="split left">
+    2: 	<h1>
+    3: 	<h1><%= link_to "Give your property on rent simply", {:controller => "main", :action => "post_new_property"}%></h1>
+    4: </div>
+    5: </br>
+    6: <div class="split right">
+  
+app/views/main/index.html.erb:3:in `_app_views_main_index_html_erb___1920952674605662969_70265540259140'
+Started GET "/main/property_list" for 127.0.0.1 at 2020-04-11 08:22:41 +0530
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.1ms)[0m  [1m[34mSELECT  `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (53.8ms)
+Completed 200 OK in 101ms (Views: 90.6ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-04-11 08:22:43 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 48ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 08:22:44 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/main/post_new_property"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-04-11 08:23:57 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 1541ms (Views: 1423.5ms)
+
+
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 08:24:04 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/main/post_new_property"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 08:24:28 +0530
+Processing by MainController#post_new_property as HTML
+Completed 406 Not Acceptable in 2768ms
+
+
+  
+ActionController::UnknownFormat (MainController#post_new_property is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.7) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.7) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.7) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.2.2) lib/rack/etag.rb:27:in `call'
+rack (2.2.2) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.2) lib/rack/head.rb:12:in `call'
+rack (2.2.2) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.2) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-04-11 12:13:47 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 50ms (Views: 48.8ms)
+
+
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 12:14:00 +0530
+Processing by MainController#post_new_property as HTML
+Completed 406 Not Acceptable in 3678ms
+
+
+  
+ActionController::UnknownFormat (MainController#post_new_property is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.7) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.7) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.7) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.7) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.7) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.7) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.7) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.2.2) lib/rack/etag.rb:27:in `call'
+rack (2.2.2) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.2) lib/rack/head.rb:12:in `call'
+rack (2.2.2) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.2) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.3) lib/puma/configuration.rb:227:in `call'
+puma (3.12.3) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.3) lib/puma/server.rb:476:in `process_client'
+puma (3.12.3) lib/puma/server.rb:334:in `block in run'
+puma (3.12.3) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 12:15:00 +0530
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2343ms (Views: 37.8ms)
+
+
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 12:15:07 +0530
+Processing by MainController#post_new_property as HTML
+Started GET "/" for 127.0.0.1 at 2020-04-11 12:15:10 +0530
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 47ms (Views: 45.7ms)
+
+
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-11 12:15:13 +0530
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 2304ms (Views: 36.5ms)
+
+
+Completed 500 Internal Server Error in 106772ms
+
+
+  
+Errno::EIO (Input/output error @ io_writev - <STDOUT>):
+  
+app/controllers/main_controller.rb:13:in `post_new_property'
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+Started GET "/" for 127.0.0.1 at 2020-04-30 11:24:27 +0700
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 14.3ms | Allocations: 679)
+Completed 200 OK in 9859ms (Views: 9821.5ms | ActiveRecord: 0.0ms | Allocations: 4716759)
+
+
+Started GET "/main/post_new_property" for 127.0.0.1 at 2020-04-30 11:24:41 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 69.0ms | Allocations: 90)
+Completed 200 OK in 6956ms (Views: 106.1ms | ActiveRecord: 0.0ms | Allocations: 132165)
+
+
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+Started GET "/" for ::1 at 2020-04-30 11:42:09 +0700
+  [1m[35m (0.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 679)
+Completed 200 OK in 1271ms (Views: 1266.7ms | ActiveRecord: 0.0ms | Allocations: 1833920)
+
+
+Started GET "/main/property_list" for ::1 at 2020-04-30 11:42:12 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (41.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 364.1ms | Allocations: 24998)
+Completed 200 OK in 524ms (Views: 179.1ms | ActiveRecord: 210.5ms | Allocations: 72134)
+
+
+Started GET "/main/property_details?p_id=1" for ::1 at 2020-04-30 11:42:15 +0700
+Processing by MainController#property_details as HTML
+  Parameters: {"p_id"=>"1"}
+  [1m[36mProperty Load (1.0ms)[0m  [1m[34mSELECT `properties`.* FROM `properties` WHERE `properties`.`id` = 1 LIMIT 1[0m
+  Rendering main/property_details.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  Rendered main/property_details.html.erb within layouts/application (Duration: 115.6ms | Allocations: 391)
+Completed 200 OK in 167ms (Views: 161.6ms | ActiveRecord: 1.5ms | Allocations: 24945)
+
+
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+Started GET "/" for ::1 at 2020-06-23 21:11:03 +0700
+  [1m[35m (37.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 27.3ms | Allocations: 678)
+Completed 200 OK in 2583ms (Views: 2579.4ms | ActiveRecord: 0.0ms | Allocations: 1833922)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:11:08 +0700
+Processing by MainController#post_new_property as HTML
+Started GET "/main/property_list" for ::1 at 2020-06-23 21:11:11 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 48.8ms | Allocations: 90)
+Completed 200 OK in 8781ms (Views: 79.4ms | ActiveRecord: 0.0ms | Allocations: 137645)
+
+
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (72.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 301.5ms | Allocations: 25013)
+Completed 200 OK in 6488ms (Views: 201.6ms | ActiveRecord: 127.2ms | Allocations: 101155)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:11:20 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+Completed 200 OK in 3022ms (Views: 26.7ms | ActiveRecord: 0.0ms | Allocations: 28807)
+
+
+Started GET "/main" for ::1 at 2020-06-23 21:14:01 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/main"):
+  
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+web-console (4.0.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+railties (6.0.0.rc1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (6.0.0.rc1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.0.rc1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.0.rc1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.0.rc1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+activesupport (6.0.0.rc1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/static.rb:126:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/host_authorization.rb:83:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+railties (6.0.0.rc1) lib/rails/engine.rb:526:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-06-23 21:14:08 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 156)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms | Allocations: 24251)
+
+
+Started GET "/main/property_list" for ::1 at 2020-06-23 21:14:55 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 3.1ms | Allocations: 782)
+Completed 200 OK in 37ms (Views: 34.0ms | ActiveRecord: 0.9ms | Allocations: 24893)
+
+
+Started GET "/" for ::1 at 2020-06-23 21:14:57 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 157)
+Completed 200 OK in 40ms (Views: 37.9ms | ActiveRecord: 0.0ms | Allocations: 24251)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:14:57 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 0.1ms | Allocations: 4)
+Completed 200 OK in 2770ms (Views: 25.8ms | ActiveRecord: 0.0ms | Allocations: 28806)
+
+
+Started GET "/" for ::1 at 2020-06-23 21:16:50 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 327)
+Completed 200 OK in 34ms (Views: 32.0ms | ActiveRecord: 0.0ms | Allocations: 25393)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:16:52 +0700
+Processing by MainController#post_new_property as HTML
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:16:54 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 25284.5ms | Allocations: 574118)
+Completed 500 Internal Server Error in 27535ms (ActiveRecord: 0.0ms | Allocations: 581280)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `current_user' for #<#<Class:0x00007fb7729234d0>:0x00007fb77223fc40>
+Did you mean?  current_page?):
+    1: hello
+    2: <%binding.pry%>
+    3: <%
+    4: @data = current_user.id%>
+    5: <%= form_with url: main_update_new_property_path, :html => { :multipart => true } do |f| %>
+    6: 
+    7:   <div class="field">
+  
+app/views/main/post_new_property.html.erb:4
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 1081.1ms | Allocations: 201885)
+Completed 500 Internal Server Error in 66168ms (ActiveRecord: 0.0ms | Allocations: 1734630)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `current_user' for #<#<Class:0x00007fb7729234d0>:0x00007fb772be11b8>
+Did you mean?  current_page?):
+    1: hello
+    2: <%binding.pry%>
+    3: <%
+    4: #@data = current_user.id%>
+    5: <%= form_with url: main_update_new_property_path, :html => { :multipart => true } do |f| %>
+    6: 
+    7:   <div class="field">
+  
+app/views/main/post_new_property.html.erb:4
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:18:09 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 943.1ms | Allocations: 202229)
+Completed 500 Internal Server Error in 7093ms (ActiveRecord: 0.0ms | Allocations: 215262)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `main_update_new_property_path' for #<#<Class:0x00007fb772e796a0>:0x00007fb772e77828>
+Did you mean?  main_post_new_property_path
+               main_post_new_property_url):
+    2: <%binding.pry%>
+    3: <%
+    4: #@data = current_user.id%>
+    5: <%= form_with url: main_update_new_property_path, :html => { :multipart => true } do |f| %>
+    6: 
+    7:   <div class="field">
+    8:     <%#= f.label :Prop_Type %>: 
+  
+app/views/main/post_new_property.html.erb:5
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:20:26 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 652.7ms | Allocations: 23703)
+Completed 200 OK in 3208ms (Views: 686.0ms | ActiveRecord: 0.0ms | Allocations: 52868)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:24:51 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 2815.2ms | Allocations: 19732)
+Completed 200 OK in 5793ms (Views: 2850.6ms | ActiveRecord: 0.0ms | Allocations: 49410)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:25:04 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 525.5ms | Allocations: 19300)
+Completed 200 OK in 4144ms (Views: 552.6ms | ActiveRecord: 0.0ms | Allocations: 47997)
+
+
+Started GET "/" for ::1 at 2020-06-23 21:25:59 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 8.3ms | Allocations: 649)
+Completed 200 OK in 35ms (Views: 32.6ms | ActiveRecord: 0.0ms | Allocations: 24887)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:26:01 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 2289.1ms | Allocations: 19322)
+Completed 200 OK in 72090ms (Views: 2321.9ms | ActiveRecord: 0.0ms | Allocations: 48265)
+
+
+Started GET "/main/property_list" for ::1 at 2020-06-23 21:28:43 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 41.3ms | Allocations: 22750)
+Completed 200 OK in 70ms (Views: 59.4ms | ActiveRecord: 3.2ms | Allocations: 48470)
+
+
+Started GET "/" for ::1 at 2020-06-23 21:28:44 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 156)
+Completed 200 OK in 42ms (Views: 37.9ms | ActiveRecord: 0.0ms | Allocations: 24250)
+
+
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:32:25 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 1690.2ms | Allocations: 21072)
+Completed 200 OK in 6199ms (Views: 1725.4ms | ActiveRecord: 0.0ms | Allocations: 60629)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-06-23 21:33:00 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 7.7ms | Allocations: 7195)
+Completed 200 OK in 2403ms (Views: 43.1ms | ActiveRecord: 0.0ms | Allocations: 36914)
+
+
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[36mProperty Load (0.3ms)[0m  [1m[34mSELECT `properties`.* FROM `properties` ORDER BY `properties`.`id` DESC LIMIT 1[0m
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+Started GET "/" for ::1 at 2020-07-20 22:56:56 +0700
+  [1m[35m (0.5ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 27.7ms | Allocations: 688)
+Completed 200 OK in 13965ms (Views: 13959.2ms | ActiveRecord: 0.0ms | Allocations: 1834023)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-07-20 22:57:20 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 224.3ms | Allocations: 10795)
+Completed 200 OK in 249ms (Views: 246.6ms | ActiveRecord: 0.0ms | Allocations: 34990)
+
+
+Started GET "/main/property_list" for ::1 at 2020-07-20 22:57:23 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (39.2ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 305.4ms | Allocations: 24986)
+Completed 200 OK in 565ms (Views: 194.1ms | ActiveRecord: 138.9ms | Allocations: 72122)
+
+
+Started GET "/" for ::1 at 2020-07-20 22:57:26 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 158)
+Completed 200 OK in 39ms (Views: 35.3ms | ActiveRecord: 0.0ms | Allocations: 24255)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-07-20 22:57:27 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 8.1ms | Allocations: 6831)
+Completed 200 OK in 42ms (Views: 39.7ms | ActiveRecord: 0.0ms | Allocations: 30893)
+
+
+Started GET "/main/property_list" for ::1 at 2020-07-20 22:57:29 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.5ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 16.3ms | Allocations: 788)
+Completed 200 OK in 47ms (Views: 43.6ms | ActiveRecord: 1.0ms | Allocations: 24903)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-07-20 22:57:32 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 7.9ms | Allocations: 6827)
+Completed 200 OK in 45ms (Views: 41.3ms | ActiveRecord: 0.0ms | Allocations: 30888)
+
+
+Started POST "/main/update_property" for ::1 at 2020-07-20 22:57:59 +0700
+  
+ActionController::RoutingError (No route matches [POST] "/main/update_property"):
+  
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+web-console (4.0.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.0.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.0.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.0.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+railties (6.0.0.rc1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (6.0.0.rc1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.0.rc1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.0.rc1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.0.rc1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+activesupport (6.0.0.rc1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/static.rb:126:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/host_authorization.rb:83:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+webpacker (3.6.0) lib/webpacker/dev_server_proxy.rb:22:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:57:in `block in call'
+activesupport (6.0.0.rc1) lib/active_support/notifications.rb:182:in `instrument'
+actionpack (6.0.0.rc1) lib/action_dispatch/middleware/stack.rb:56:in `call'
+railties (6.0.0.rc1) lib/rails/engine.rb:526:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-07-20 22:58:10 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 156)
+Completed 200 OK in 61ms (Views: 54.8ms | ActiveRecord: 0.0ms | Allocations: 24251)
+
+
+Started GET "/" for ::1 at 2020-07-20 22:58:11 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 157)
+Completed 200 OK in 38ms (Views: 35.5ms | ActiveRecord: 0.0ms | Allocations: 24267)
+
+
+Started GET "/main/property_list" for ::1 at 2020-07-20 22:58:12 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (0.4ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 3.7ms | Allocations: 779)
+Completed 200 OK in 39ms (Views: 36.2ms | ActiveRecord: 0.9ms | Allocations: 24888)
+
+
+Started GET "/" for ::1 at 2020-07-20 22:58:14 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 156)
+Completed 200 OK in 38ms (Views: 36.1ms | ActiveRecord: 0.0ms | Allocations: 24250)
+
+
+DEPRECATION WARNING: Single arity template handlers are deprecated. Template handlers must
+now accept two parameters, the view object and the source for the view object.
+Change:
+  >> Coffee::Rails::TemplateHandler.call(template)
+To:
+  >> Coffee::Rails::TemplateHandler.call(template, source)
+ (called from <top (required)> at /home/bitlasoft/BISHNU/project/railsvueapp/config/environment.rb:5)
+Started GET "/" for ::1 at 2020-09-13 11:46:04 +0700
+  [1m[35m (0.4ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 18.3ms | Allocations: 927)
+Completed 200 OK in 2617ms (Views: 2470.2ms | ActiveRecord: 0.0ms | Allocations: 1835395)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-09-13 11:46:10 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 185.6ms | Allocations: 10797)
+Completed 200 OK in 222ms (Views: 219.6ms | ActiveRecord: 0.0ms | Allocations: 34998)
+
+
+Started GET "/" for ::1 at 2020-09-13 11:46:12 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 162)
+Completed 200 OK in 38ms (Views: 35.0ms | ActiveRecord: 0.0ms | Allocations: 24259)
+
+
+Started GET "/main/property_list" for ::1 at 2020-09-13 11:46:13 +0700
+Processing by MainController#property_list as HTML
+  Rendering main/property_list.html.erb within layouts/application
+  [1m[36mProperty Load (80.6ms)[0m  [1m[34mSELECT `properties`.* FROM `properties`[0m
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 1 LIMIT 1[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered main/property_list.html.erb within layouts/application (Duration: 313.8ms | Allocations: 24987)
+Completed 200 OK in 580ms (Views: 184.7ms | ActiveRecord: 159.7ms | Allocations: 72124)
+
+
+Started GET "/" for ::1 at 2020-09-13 11:46:15 +0700
+Processing by MainController#index as HTML
+  Rendering main/index.html.erb within layouts/application
+  Rendered main/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 156)
+Completed 200 OK in 38ms (Views: 36.1ms | ActiveRecord: 0.0ms | Allocations: 24252)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-09-13 11:46:16 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 6.0ms | Allocations: 6830)
+Completed 200 OK in 44ms (Views: 40.8ms | ActiveRecord: 0.0ms | Allocations: 30892)
+
+
+Started GET "/main/post_new_property" for ::1 at 2020-09-13 11:46:24 +0700
+Processing by MainController#post_new_property as HTML
+  Rendering main/post_new_property.html.erb within layouts/application
+  Rendered main/post_new_property.html.erb within layouts/application (Duration: 17.2ms | Allocations: 6827)
+Completed 200 OK in 44ms (Views: 42.3ms | ActiveRecord: 0.0ms | Allocations: 30891)
+
+

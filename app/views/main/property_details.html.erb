@@ -1,0 +1,23 @@
+<%if @property.present?%>
+<div>
+<table>
+	<tr>
+		<th>Property Type</th>
+		<th>Area</th>
+		<th>Description</th>
+		<th>Posted By</th>
+	</tr>
+	<tr>
+		<td><%=@property.prop_type%></td>
+		<td><%=@property.address%> <%=@property.pincode%></td>
+		<td><%=@property.description%></td>
+		<td><%=CommonUtils.user_details(@property.user_id)%></td>
+	</tr>
+</table>
+</div>
+<div align="center"><h4> Images </h4>
+<%#= image_tag @property.iamges(:thumb) %>
+</div>
+<%else%>
+No Data To Display
+<%end%>
